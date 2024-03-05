@@ -1,7 +1,8 @@
-Hi everyone! 
+**Hi everyone!** 
 
 I'm interested in learning Java and Software testing:)
 
+[My telegram](https://t.me/CHIRxx)
 
 <!---
 4IRxx/4IRxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
